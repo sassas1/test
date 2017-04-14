@@ -5,6 +5,7 @@ public class ex1 {
 		System.out.println("hello java");
 		System.out.println("hihihi");
 		System.out.println("bye");
+		System.out.println("oh");
 
 	}
 
