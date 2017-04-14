@@ -6,6 +6,7 @@ public class ex1 {
 		System.out.println("hihihi");
 		System.out.println("bye");
 		System.out.println("oh");
+		System.out.println("my god");
 
 	}
 
